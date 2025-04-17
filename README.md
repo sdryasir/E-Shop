@@ -1,3 +1,10 @@
+✨ Date: Started Learning on April 17, 2025 ✨.
+
+## First lecture - Settig up monorep using Nx & adding microservices
+
+✨ [YouTube video](https://www.youtube.com/watch?v=XiD_TsGRQtE&t=742s)  (1:12:13)✨.
+
+
 # 
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
