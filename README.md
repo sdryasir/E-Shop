@@ -2,8 +2,8 @@
 
 ## First lecture - Settig up monorep using Nx & adding microservices
 
- -[YouTube video](https://www.youtube.com/watch?v=XiD_TsGRQtE&t=742s)  (Date: April 17, 2025 Video Time: 1:12:13)✨.
-
+Daily Learning Status:
+- [YouTube video](https://www.youtube.com/watch?v=XiD_TsGRQtE&t=742s)  (Date: April 17, 2025 Video Time: 1:12:13)✨.
 
 # 
 
