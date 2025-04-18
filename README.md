@@ -4,6 +4,7 @@
 
 Daily Learning Status:
 - [YouTube video](https://www.youtube.com/watch?v=XiD_TsGRQtE&t=742s)  (Date: April 17, 2025 Video Time: 1:12:13)✨.
+- [YouTube video](https://www.youtube.com/watch?v=XiD_TsGRQtE&t=742s)  (Date: April 18, 2025 Video Time: 1:44:06)✨.
 
 # 
 
